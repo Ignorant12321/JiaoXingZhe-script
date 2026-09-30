@@ -18,3 +18,11 @@
 3. 粘贴代码
 
 ![image-20260929102949517](README.assets/image-20260929102949517.png)
+
+## 说明
+
+`ncepu-helper.user.js`和注册版/加密版==没有==功能区别！！！
+
+如果使用`ncepu-keygate.user.js`或者`ncepu-keygate.obf.user.js` 需要注册码如下：`KG-QYT7YZGH-U4QYTRLT-9BJUW7FR-EXZZKSBL`
+
+![image-20260930174745521](README.assets/image-20260930174745521.png)
